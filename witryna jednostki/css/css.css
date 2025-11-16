@@ -1,0 +1,42 @@
+body{
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color:rgb(173 216 230);
+}
+h1{
+	margin-left: 2vmax;
+	font-weight: bolder;
+	font-size: 30px;
+}
+ul{
+	list-style: circle;
+	
+}
+dl{
+	margin-left: 1vmax;
+}
+li{
+	margin: 2vmax;
+
+}
+table{
+	margin:1vmax ;
+}
+th{
+	font-weight: bold;
+}
+tr{
+	border: 1px solid black ;
+}
+.tr1{
+	background-color:rgb(211 211 211);
+}
+.tr2{
+	background-color:rgb(144 238 144);
+}
+td,th{
+	padding: 2px;
+}
+p{
+	margin-left: 1vmax;
+	font-weight: bold;
+}
