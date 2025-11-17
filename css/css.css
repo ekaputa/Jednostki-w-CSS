@@ -67,14 +67,15 @@ p {
 }
 
 a {
-    color: rgba(237, 221, 83, 1);
+    color: #6249C3;
     font-size: larger;
     font-weight: bold;
     text-decoration: none;
 }
 a:visited {
-    color: rgba(87, 199, 133, 1);
+    color: #2BF37F;
 }
+
 
 
 
