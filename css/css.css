@@ -26,6 +26,8 @@ ul{
 }
 dl{
 	margin-left: 1vmax;
+	color: #48CF94;
+
 }
 li {
     background-color: #222;
@@ -77,6 +79,7 @@ a {
 a:visited {
     color: #2BF37F;
 }
+
 
 
 
