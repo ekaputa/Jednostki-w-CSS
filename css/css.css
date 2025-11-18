@@ -16,7 +16,7 @@ h1{
 	font-weight: bolder;
 	font-size: 70px;
 	text-align: center;
-	font-collor: #48CF94;
+	font-color: #48CF94;
 }
 ul{
     display: grid;
@@ -76,6 +76,7 @@ a {
 a:visited {
     color: #2BF37F;
 }
+
 
 
 
